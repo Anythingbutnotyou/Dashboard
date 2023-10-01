@@ -1,1 +1,3 @@
-Hi This repo is for my Dashboard. Add Names here.
+Hi This repository is for my Dashboard. Add Names here.
+
+Varun
